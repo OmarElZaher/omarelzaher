@@ -1,8 +1,8 @@
-<h1 align="center">Hey, I'm Omar 🚀</h1>
+<h1 align="center">Hi There, I'm Omar! 👨🏽‍💻</h1>
 <p align="center">
   <b>AI • Cybersecurity • Full-Stack • Cloud</b>  
   <br>
-  I build smart, secure, and scalable things — and have fun doing it 😎
+  I build smart, secure, and scalable things; and most times I have fun doing it (bugs, am i right?) 😆
 </p>
 
 <p align="center">
