@@ -62,6 +62,22 @@
 
 ---
 
+## 📜 Random Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+---
+
+## 🎵 Now Playing on Spotify
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" />
+  </a>
+</p>
+
+---
+
 ## 🎯 Fun Facts
 - 🛫 Aerospace nerd at heart  
 - 🎸 Play guitar to unwind  
