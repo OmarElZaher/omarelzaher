@@ -16,7 +16,7 @@
 ## 🔭 Current Mission
 
 - 🧠 Building automation & AI tools
-- ☁️ Leveling up in **cloud security**, **AI agents**, **Machine Learning Models**
+- ☁️ Leveling up in **cloud security**, **AI agents** & **Machine Learning Models**
 - 💡 Exploring creative **full-stack + ML** mashups
 
 ## 🏆 Past Highlights
@@ -31,7 +31,7 @@
 
 | 🚩 Project                                                                                                                                                  | ✨ What it does                         | 🛠 Stack                                  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------------------- |
-| [**Vetrik**](https://github.com/OmarElZaher/Vetrik)                                                                                                         | ERP for vet clinics                     | React, Node, MongoDB, Chakra UI          |
+| [**Vetrik**](https://github.com/OmarElZaher/vetrik-gallery)                                                                                                 | ERP for vet clinics                     | React, Node, MongoDB, Chakra UI          |
 | [**Loan Approval Predictor**](https://github.com/OmarElZaher/Load-Approval-Prediction-Model)                                                                | ML model for loan approval              | Python, Scikit-learn                     |
 | [**Audio Encryption Using The Artificial Fish Swarm Algorithm**](https://github.com/OmarElZaher/Audio-Encryption-Using-The-Artificial-Fish-Swarm-Algorithm) | Novel Approach to Multimedia Encryption | Mathematica, AES, RSA, S-Box, Blockchain |
 | [**Cloud Platforms Comparison**](#)                                                                                                                         | AWS vs Azure vs GCP analysis            | AWS, Azure, GCP                          |
