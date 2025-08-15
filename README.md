@@ -14,27 +14,32 @@
 ---
 
 ## 🔭 Current Mission
-- 🧠 Building automation & AI tools at **Agent Orion** (Founder)
-- ☁️ Leveling up in **cloud security** & **AI agents**
+
+- 🧠 Building automation & AI tools
+- ☁️ Leveling up in **cloud security**, **AI agents**, **Machine Learning Models**
 - 💡 Exploring creative **full-stack + ML** mashups
 
 ## 🏆 Past Highlights
-- 🛡 **Cybersecurity Intern @ Thndr** — Built AWS/GitHub security audits still in use  
-- ⚙️ **Backend Intern @ Bit68** — Designed APIs with FastAPI & Django REST  
-- 👨‍💻 **Freelance Lead Dev** — Led a 10-person team to deliver a virtual clinic in 3 months  
+
+- 🛡 **Cybersecurity Intern @ Thndr** — Built AWS/GitHub security audits still in use
+- ⚙️ **Backend Intern @ Bit68** — Designed APIs with FastAPI & Django REST
+- 👨‍💻 **Freelance Lead Dev** — Led a 10-person team to deliver a virtual clinic in 3 months
 
 ---
 
 ## 🚀 Featured Projects
-| 🚩 Project | ✨ What it does | 🛠 Stack |
-|---|---|---|
-| [**Vetrik**](#) | ERP for vet clinics | React, Node, MongoDB, Chakra UI |
-| [**Loan Approval Predictor**](https://github.com/OmarElZaher/Load-Approval-Prediction-Model) | ML model for loan approval | Python, Scikit-learn |
-| [**Cloud Platforms Comparison**](#) | AWS vs Azure vs GCP analysis | AWS, Azure, GCP |
+
+| 🚩 Project                                                                                                                                                  | ✨ What it does                         | 🛠 Stack                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------------------- |
+| [**Vetrik**](https://github.com/OmarElZaher/Vetrik)                                                                                                         | ERP for vet clinics                     | React, Node, MongoDB, Chakra UI          |
+| [**Loan Approval Predictor**](https://github.com/OmarElZaher/Load-Approval-Prediction-Model)                                                                | ML model for loan approval              | Python, Scikit-learn                     |
+| [**Audio Encryption Using The Artificial Fish Swarm Algorithm**](https://github.com/OmarElZaher/Audio-Encryption-Using-The-Artificial-Fish-Swarm-Algorithm) | Novel Approach to Multimedia Encryption | Mathematica, AES, RSA, S-Box, Blockchain |
+| [**Cloud Platforms Comparison**](#)                                                                                                                         | AWS vs Azure vs GCP analysis            | AWS, Azure, GCP                          |
 
 ---
 
 ## 🛠 Tech Arsenal
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
@@ -51,6 +56,7 @@
 ---
 
 ## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmarElZaher&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarElZaher&theme=tokyonight" height="160" />
@@ -63,14 +69,15 @@
 ---
 
 ## 🎯 Fun Facts
-- 🛫 Aerospace nerd at heart  
-- 🎸 Play guitar to unwind  
-- 🗣️ Learning Spanish (¡hola!)  
-- 💬 Always down to talk tech, startups, and random ideas  
+
+- 🏎️ Automotive nerd at heart
+- 🗣️ Learning Spanish (¡hola!)
+- 💬 Always down to talk tech, startups, and random ideas
 
 ---
 
 ## 🌐 Connect
+
 <p>
   <a href="https://www.linkedin.com/in/omarelzaher"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:omarelzaher@icloud.com"><img src="https://img.shields.io/badge/Email-white?logo=gmail" /></a>
