@@ -15,7 +15,7 @@
 
 - 🧠 Building automation & AI tools
 - ☁️ Leveling up in **cloud security**, **AI agents** & **ML Models**
-- 💡 Exploring creative **full-stack + ML** mashups
+- 💡 Exploring creative **security + ML** mashups
 
 ## 🏆 Past Highlights
 
